@@ -7,7 +7,7 @@ Welcome to the official SpeechSuper **offline** Windows SDK repository. Support
 To use this SDK, you need to obtain a free trial key from SpeechSuper.
 
 ## How to Apply for a Free Trial
-1. Visit our [website](www.speechsuper.com).
+1. Visit our [website](https://www.speechsuper.com).
 2. Click **"Start free trial,"** complete the form, and submit it. You will receive a response from our team within **1 business day** via email.
 
 ## 🚀 Getting Started
