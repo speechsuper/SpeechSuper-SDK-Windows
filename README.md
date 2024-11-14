@@ -21,4 +21,4 @@ Follow the instructions in the `README.md` file to run the demo projects. This w
 #### Step 3: Download the Offline Windows SDK: 
 [Download SDK](https://drive.google.com/file/d/1XJl6V6M_a4o0uvWOkvzxMq-W5Boh2XE6/view?usp=drive_link)
 #### Step 4: Integrate Our Offline Windows SDK into Your Software
-For full integration, reach out to qiusi@speechsuper.com if you need any assistance. We are happy to help.
+For full integration, check the [documentation](https://docs.speechsuper.com/#/./Native/Windows). If you encounter any issues, reach out to qiusi@speechsuper.com and we are happy to help.
