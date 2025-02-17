@@ -19,7 +19,7 @@ Start with the demo to get familiar with the SDK's features. Choose the demo tha
 #### Step 2: Run the Demo Projects
 Follow the instructions in the `README.md` file to run the demo projects. This will provide an overview of how our offline Windows SDK works.
 #### Step 3: Download the Offline Windows SDK: 
-- [Download SDK - version 3.8.2 - latest](https://drive.google.com/file/d/1OOPeq7Ih3KFitwsUt6WFL629k5k_SQZ6/view?usp=sharing)
-- ~~[Download SDK - archived](https://drive.google.com/file/d/1XJl6V6M_a4o0uvWOkvzxMq-W5Boh2XE6/view?usp=drive_link)~~
+- [Download SDK - version 3.9.0 - latest](https://drive.google.com/file/d/1gamRA8i4u_Bv2VKc7a6FHpVeXguLQfJu/view?usp=drive_link)
+
 #### Step 4: Integrate Our Offline Windows SDK into Your Software
 For full integration, check the [documentation](https://docs.speechsuper.com/#/./Native/Windows). If you encounter any issues, reach out to qiusi@speechsuper.com and we are happy to help.
